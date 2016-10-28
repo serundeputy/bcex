@@ -45,6 +45,5 @@
     "node_pattern": "[node:content-type]/[node:title]",
     "taxonomy_term_pattern": "[term:vocabulary]/[term:name]",
     "user_pattern": "accounts/[user:name]",
-    "node_page_pattern": "[node:title]",
-    "node_post_pattern": "posts/[node:title]"
+    "node_page_pattern": "[node:title]"
 }
