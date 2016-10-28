@@ -72,8 +72,9 @@
                     "style": "default",
                     "block_settings": {
                         "menu_name": "main-menu",
-                        "level": "1",
-                        "depth": "1"
+                        "level": 1,
+                        "depth": 0,
+                        "style": "dropdown"
                     },
                     "contexts": []
                 },
