@@ -71,6 +71,11 @@
         "access contextual links",
         "administer layouts",
         "access administration bar",
-        "flush caches"
+        "flush caches",
+        "create my_content_type content",
+        "edit own my_content_type content",
+        "edit any my_content_type content",
+        "delete own my_content_type content",
+        "delete any my_content_type content"
     ]
 }
